@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icon/draw.png</file>
+        <file>icon/failed.png</file>
+        <file>icon/Save.png</file>
+        <file>icon/undo.png</file>
+        <file>icon/undo_72px_557890_easyicon.net.png</file>
+        <file>audio/backgroud2.wav</file>
+    </qresource>
+    <qresource prefix="/piece">
+        <file>icon/image/bing1.png</file>
+        <file>icon/image/bing2.png</file>
+        <file>icon/image/jiang2.png</file>
+        <file>icon/image/ju1.png</file>
+        <file>icon/image/ju2.png</file>
+        <file>icon/image/ma1.png</file>
+        <file>icon/image/ma2.png</file>
+        <file>icon/image/pao1.png</file>
+        <file>icon/image/pao2.png</file>
+        <file>icon/image/shi1.png</file>
+        <file>icon/image/shi2.png</file>
+        <file>icon/image/xiang1.png</file>
+        <file>icon/image/xiang2.png</file>
+        <file>icon/image/jiang1.png</file>
+    </qresource>
+    <qresource prefix="/audio">
+        <file>audio/backgroud1.mp3</file>
+        <file>audio/backgroud2.mp3</file>
+        <file>audio/illgeal.wav</file>
+        <file>audio/lose.mp3</file>
+        <file>audio/set.wav</file>
+        <file>audio/win.wav</file>
+        <file>audio/checkmate.wav</file>
+        <file>audio/capture.wav</file>
+        <file>audio/newmessage.wav</file>
+        <file>audio/chessone.wav</file>
+        <file>audio/backgroud3.wav</file>
+    </qresource>
+</RCC>
