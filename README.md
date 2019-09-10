@@ -1,6 +1,6 @@
 # Chinese chess network-platform
 
-![1568134632759](C:\Users\gxy20\AppData\Roaming\Typora\typora-user-images\1568134632759.png)
+![](1568134632759.png)
 
 + developed by QT creator in one week
 + 2018 Tsinghua University summer semester course, Programing and Training's project
